@@ -4,7 +4,7 @@ Una aplicación de escritorio que muestra en tiempo real los precios de las prin
 
 ## 🖼️ Captura
 
-<img src="media/app_capture.png" style="height: 30%; width:30%;"/>
+<img src="media/app_capture.png" style="height: 50%; width:50%;"/>
 
 ## 📋 Características
 
